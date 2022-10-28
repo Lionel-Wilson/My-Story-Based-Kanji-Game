@@ -15,7 +15,7 @@
 
 ## General Information
 - Created a 3D Story Based Kanji Game. 
-- This was created in order to created a piece of software that made learning Kanji fun, engaging and effective as current methods are either not fun but are effective or fun but not as effective.
+- This was created in order to create a piece of software that made learning Kanji fun, engaging and effective as current methods are either not fun but are effective or fun but not as effective.
 - I made this for my final Masters Project.
 
 
